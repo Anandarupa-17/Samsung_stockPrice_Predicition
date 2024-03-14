@@ -31,9 +31,9 @@ The performance of the LSTM model is evaluated using metrics such as Mean Square
 # Usage
 To use the LSTM model for stock price prediction:
 
-Install the required dependencies (TensorFlow, Keras, pandas, etc.).
-Load the historical stock price data.
-Preprocess the data (handling missing values, feature scaling, etc.).
-Train the LSTM model on the preprocessed data.
-Evaluate the model's performance using suitable metrics.
-Make predictions on new data using the trained model.
+1. Install the required dependencies (TensorFlow, Keras, pandas, etc.).
+2. Load the historical stock price data.
+3. Preprocess the data (handling missing values, feature scaling, etc.).
+4. Train the LSTM model on the preprocessed data.
+5. Evaluate the model's performance using suitable metrics.
+6. Make predictions on new data using the trained model.
